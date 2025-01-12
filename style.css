@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kaushan+Script&family=Passion+One:wght@400;700;900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sriracha&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-    --font1: Verdana, Geneva, Tahoma, sans-serif;
+    --font1: Verdana, 'Geneva', Tahoma, sans-serif;
     --font2: "Passion One", serif;
     --font3: "Sriracha", serif;
 }
